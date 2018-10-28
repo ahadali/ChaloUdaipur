@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.chaloudaipur.DiningIntent">
+
+    <ImageView
+        android:id="@+id/dining_back_image_view"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_250"
+        android:alpha="0.5"
+        android:contentDescription="@string/todo"
+        android:scaleType="centerCrop"
+        tools:src="@drawable/udaipur_main" />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/dining_circleImageView"
+        android:layout_width="@dimen/dimen_200"
+        android:layout_height="@dimen/dimen_130"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/dimen_175"
+        tools:src="@drawable/udaipur_main" />
+
+    <Button
+        android:id="@+id/dining_directions_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/website_button"
+        android:layout_alignBottom="@+id/website_button"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="@dimen/dimen_22"
+        android:layout_marginStart="@dimen/dimen_22"
+        android:text="@string/directions"
+        android:textColor="@android:color/black" />
+
+    <Button
+        android:id="@+id/website_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/dining_circleImageView"
+        android:layout_marginLeft="@dimen/dimen_10"
+        android:layout_marginStart="@dimen/dimen_10"
+        android:layout_marginTop="@dimen/dimen_32"
+        android:layout_toEndOf="@+id/dining_directions_button"
+        android:layout_toRightOf="@+id/dining_directions_button"
+        android:text="@string/website" />
+
+    <TextView
+        android:id="@+id/phone_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/phone_number"
+        android:layout_alignBottom="@+id/phone_number"
+        android:layout_alignLeft="@+id/dining_directions_button"
+        android:layout_alignStart="@+id/dining_directions_button"
+        android:text="@string/phone"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/textSize_20" />
+
+    <TextView
+        android:id="@+id/phone_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/dining_directions_button"
+        android:layout_marginLeft="@dimen/dimen_8"
+        android:layout_marginStart="@dimen/dimen_8"
+        android:layout_marginTop="@dimen/dimen_27"
+        android:layout_toEndOf="@+id/phone_textView"
+        android:layout_toRightOf="@+id/phone_textView"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/textSize_20"
+        tools:text="0294 243 1197" />
+
+    <TextView
+        android:id="@+id/hours_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/phone_textView"
+        android:layout_alignStart="@+id/phone_textView"
+        android:layout_below="@+id/phone_textView"
+        android:layout_marginTop="@dimen/dimen_11"
+        android:text="@string/hours"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/textSize_20" />
+
+    <TextView
+        android:id="@+id/open_and_close_hours"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/hours_textView"
+        android:layout_alignLeft="@+id/phone_number"
+        android:layout_alignStart="@+id/phone_number"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/textSize_20"
+        tools:text="Opens- 7PM Close- 11PM" />
+
+    <TextView
+        android:id="@+id/rating_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/hours_textView"
+        android:layout_alignStart="@+id/hours_textView"
+        android:layout_below="@+id/hours_textView"
+        android:layout_marginTop="@dimen/dimen_9"
+        android:text="@string/rating"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/textSize_20" />
+
+    <TextView
+        android:id="@+id/rating_point"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/rating_textView"
+        android:layout_alignBottom="@+id/rating_textView"
+        android:layout_alignLeft="@+id/open_and_close_hours"
+        android:layout_alignStart="@+id/open_and_close_hours"
+        android:textColor="@android:color/holo_red_dark"
+        android:textSize="@dimen/textSize_20"
+        tools:text="4.2 / 5" />
+
+</RelativeLayout>

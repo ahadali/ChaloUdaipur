@@ -1,0 +1,228 @@
+<resources>
+    <string name="app_name">ChaloUdaipur</string>
+    <string name="welcome">Welcome</string>
+    <string name="get_info">Get info</string>
+    <string name="todo">TODO</string>
+    <string name="directions">Directions</string>
+    <string name="website">Website</string>
+    <string name="phone">Phone:</string>
+    <string name="hours">Hours:</string>
+    <string name="rating">Rating:</string>
+    <string name="paid">Paid</string>
+    <string name="register">Register</string>
+    <string name="get_directions">Get Directions</string>
+    <string name="venue_intent_string">Venues</string>
+    <string name="dining_intent_string">Dining</string>
+    <string name="upre_restaurant">Upre Restaurant</string>
+    <string name="hotel_ambrai">Hotel Ambrai</string>
+    <string name="lake_end_hotel">Lake End Hotel</string>
+    <string name="uday_vilas">Uday Vilas</string>
+    <string name="taj_lake_palace">Taj Lake Palace</string>
+    <string name="blue_moon_cafe">Blue Moon Cafe</string>
+    <string name="jheel_cafe">Jheel Cafe</string>
+    <string name="kabab_mistri">Kabab Mistri</string>
+    <string name="jag_mandir_palace">Jag Mandir Palace</string>
+    <string name="radisson_blu">Radisson BLu</string>
+    <string name="lantern_festival">Lantern Festival</string>
+    <string name="shilpgram_festival">Shilpgram Festival</string>
+    <string name="ahar_heritage_walk">Ahar Heritage Walk</string>
+    <string name="purple_run_udaipur">Purple Run Udaipur</string>
+    <string name="dhashera_diwali_mela">Dhashera Diwali Mela</string>
+    <string name="hariyali_amavasya_mela">Hariyali Amavasya Mela</string>
+    <string name="music_festival">Music Festival</string>
+    <string name="free">Free</string>
+    <string name="r_kay_mall">R Kay Mall</string>
+    <string name="celebration_mall">Celebration Mall</string>
+    <string name="lake_city_mall">Lake City Mall</string>
+    <string name="bapu_bazar">Bapu Bazar</string>
+    <string name="bada_bazar">Bada Bazar</string>
+    <string name="jagdish_chowk">Jagdish Chowk</string>
+    <string name="arvana">Arvana</string>
+    <string name="rajasthali">Rajasthali</string>
+    <string name="shilpgram">Shilpgram</string>
+    <string name="sindhi_bazar">Sindhi Bazar</string>
+    <string name="fatehsagar">Fatehsagar</string>
+    <string name="badi_lake">Badi Lake</string>
+    <string name="ambrai_ghat">Ambrai Ghat</string>
+    <string name="sajjangarh">SajjanGarh</string>
+    <string name="city_palace">City Palace</string>
+    <string name="lake_pichola">Lake Pichola</string>
+    <string name="jaisamand">Jaisamand</string>
+    <string name="gangaur_ghat">Gangaur Ghat</string>
+    <string name="govardhan_sagar">Govardhan Sagar</string>
+    <string name="ropeway_udaipur">Ropeway Udaipur</string>
+    <string name="event_registration">You are Registered for this event</string>
+    <string name="event_liking">You Like this event</string>
+    <string name="event_sharing">You Shared this event</string>
+
+
+    <!-- Strings for Venues Description -->
+    <string name="fatehsagar_description">Fateh Sagar Lake is situated in the city of Udaipur in the Indian state of Rajasthan.
+        It is an artificial lake named after Maharana Fateh Singh of Udaipur and Mewar, constructed north-west of Udaipur, to the north of Lake Pichola in the 1680s.
+        It is one of the four lakes of the Udaipur city; the other three being: the Lake Pichola (within the Udaipur town), Udai Sagar Lake, 13 kilometres (8.1 mi) to the east of Udaipur, and Dhebar Lake or Jaisamand Lake, 52 km (32 mi) south east of Udaipur.
+        Within the confines of the Fatah Sagar Lake, there are three small islands; the largest of these is the Nehru Park (4 km2 (1.5 sq mi) area), which is a popular tourist attraction, the second island (0.06 km2 or 15 acres area) houses a public park with an impressive water-jet fountain, and the third island (1.2 km2 area) is the address for the Udaipur Solar Observatory (USO).
+        The Nehru park is accessible by inboard motor boats. The blue waters of the lake and the backdrop of the green mountains has given the soubriquet of ‘the second Kashmir’ to Udaipur .</string>
+
+
+    <string name="badi_description">Lake Badi, situated in Udaipur city in the Indian state of Rajasthan, is an artificial fresh water lake.
+        The lake was built in the village of Badi, about 12 km from the city of Udaipur, by Maharana Raj Singh I (1652-1680) to counteract the devastating effects of a famine.
+        He named it Jiyan Sagar after his mother Jana Devi.
+        The lake covers an area of 155 km2., and has an embankment 180 m. long and 18 m. wide, which is graced by three artistic chhatris (kiosks or pavilions).
+        During the drought of 1973, the lake supplied water to the people of Udaipur.
+        Devoid of any commercial activity, the Badi Lake gives a view of a never-ending expanse providing a serene and calm atmosphere to the visitors.
+        The lake is amongst the major tourist attractions of the city.
+        One can easily reach Badi Lake either by taking regular buses or by hiring taxis from the city.</string>
+
+    <string name="ambrai_ghat_desctiption">Ambrai Ghat or Manjhi Ghat is a main ghat situated near the waterfront of Lake Pichola in Udaipur.
+        It is situated opposite to the Gangaur Ghat, near the Jagdish Chowk area.
+        Ambrai Ghat is a popular for its lake-side location surrounded by many popular hotels including the Ambrai restaurant. It is also popular for the picturesque view of City Palace, Udaipur, and surrounding lakes.</string>
+
+
+    <string name="sajjangarh_description">The Monsoon Palace, also known as the Sajjan Garh Palace, is a hilltop palatial residence in the city of Udaipur, Rajasthan in India, overlooking the Fateh Sagar Lake. It is named Sajjangarh after Maharana Sajjan Singh (1874–1884) of the Mewar Dynasty, who built it in 1884. The palace offers a panoramic view of the city\'s lakes, palaces and surrounding countryside.
+        It was built chiefly to watch the monsoon clouds; hence, appropriately, it is popularly known as Monsoon Palace.
+        It is said that the Maharana built it at the top of the hill to get a view of his ancestral home, Chittaurgarh.
+        Previously owned by the Mewar royal family, it is now under the control of the Forest Department of the Government of Rajasthan and has recently been opened to the public.
+        The palace provides a beautiful view of the sunset.
+        Its builder, Maharana Sajjan Singh, originally planned to make it a five-storey astronomical centre.
+        The plan was cancelled with Maharana Sajjan Singh's premature death. It was then turned into a monsoon palace and hunting lodge.
+        High in the Aravalli Hills, just outside Udaipur, the Palace is illuminated in the evenings, giving a golden orange glow (see image in the infobox). The palace was used in the 1983 James Bond film Octopussy as the residence of Kamal Khan, an exiled Afghan prince.</string>
+    <string name="citypalace_description">City Palace, Udaipur, is a palace complex situated in the city of Udaipur, Rajasthan.
+        It was built over a period of nearly 400 years, with contributions from several rulers of the Mewar dynasty.
+        Its construction began in 1553, started by Maharana Udai Singh II of the Sisodia Rajput family as he shifted his capital from the erstwhile Chittor to the new found city of Udaipur.
+        The palace is located on the east bank of Lake Pichola and has several palaces built within its complex.
+        The City Palace in Udaipur was built in a flamboyant style and is considered the largest of its type in the state of Rajasthan.
+        It was built atop a hill, in a fusion of the Rajasthani and Mughal architectural styles, providing a panoramic view of the city and its surroundings.
+        Overlooking Lake Pichola, several historic monuments like the Lake Palace, Jag Mandir, Jagdish Temple, Monsoon Palace, and Neemach Mata temple, are all in the vicinity of the palace complex.
+        Nestled within the Aravali mountain range, these landmarks are associated in popular culture with the filming of the 1983 James Bond movie Octopussy.
+    </string>
+
+    <string name="lakepichola_description">Lake Pichola, situated in Udaipur city in the Indian state of Rajasthan, is an artificial fresh water lake, created in the year 1362 AD, named after the nearby Picholi village.
+        It is one of the several contiguous lakes, and developed over the last few centuries in and around the famous Udaipur city.
+        The lakes around Udaipur were primarily created by building dams to meet the drinking water and irrigation needs of the city and its neighborhood.
+        Two islands, Jag Niwas and Jag Mandir are located within Pichola Lake, and have been developed with several palaces to provide views of the lake.
+        There are four islands on the lake:
+        1. Jag Niwas, where the Lake Palace is built.
+        2. Jag Mandir, with the palace of the same name.
+        3. Mohan Mandir, from where the king would watch the annual Gangaur festival celebration.
+        Arsi Vilas, small island which was an ammunition depot, but also a small palace. This one was built by one of the maharanas of Udaipur to enjoy the sunset on the lake. It is also a sanctuary catering to a variety of birds, including tufted ducks, coots, egrets, terns, cormorants and kingfishers.[4]
+        Three of the numerous lakes found in the vicinity of Udaipur which connect with the Pichola lake and the Saroop Sagar Lake connected by an arched bridge built by Maharana Swaroop Singh (1842-1861) which in turn connects to the Fateh Sagar Lake, the crystal watered lake in the midst of tree lined hills and the smaller Arsi vilas.</string>
+
+    <string name="jaisamand_description">Dhebar Lake (also known as Jaisamand Lake) is India\'s second-largest artificial lake, after Govind Ballabh Pant Sagar.
+        It is located in the Udaipur District of Rajasthan State in western India.
+        It has an area of 87 km2 (34 sq mi) when full, and was created in the 17th century, when Rana Jai Singh of Udaipur built a marble dam across the Gomati River.
+        It is about 45.0 km (28.0 mi) from the district headquarters of Udaipur. When first built, it was the largest artificial lake in the world. The surrounding Jaisamand Wildlife Sanctuary around Dhebar Lake can be reached by the state highway to Banswara from Udaipur.
+        It is about 27.0 km (16.8 mi) from Parsad (A village on National Highway No. 8). Jaisamand Wildlife Sanctuary protects about 162.0 square kilometres (16,200 ha), mostly teak forest, on the shores of Dhebar Lake. The lake has three islands measuring from 10 to 40 acres (40,000 to 162,000 m2) each. The Dhebar Lake Marble Dam is 300.0 m (984.3 ft) long and is a part of the \"Heritage Monuments of India\". The dam also has the Hawa Mahal Palace, winter Capital of the erstwhile Maharanas of Mewar.</string>
+
+    <string name="gangaurghat_description">Gangaur Ghat or Gangori Ghat is a main ghat situated near the waterfront of Lake Pichola in Udaipur. It is situated near the Jagdish Chowk area. It is known for Bagore-ki-Haveli, a popular tourist destination of the city.
+        Gangaur Ghat is a popular destination of celebration of large number of cultural festivals:
+        Gangaur festival
+        Gangaur is one of the most important local festivals in Rajasthan. Traditional processions of Gangaur commences from the City Palace, and several other places, which passes through various areas of the city. The procession is headed by an old palanquins, chariots, bullock carts and performance by folk artistes.
+        After the processions are complete, the idols of Gan and Gauri are brought to this ghat and immersed in the Lake Pichola from here.
+        Jal-Jhulni Ekadashi
+        The Jal-Jhulni Gyaras, or Jal-Jhulni Ekadashi is a popular event celebrated around Gangaur Ghat. On the 11th day of each waxing (Shukla paksha) and waning moon (Krishna paksha), different processions start from the various parts of the city and end at one point i.e. Gangaur Ghat where people swing the idols of Lord Krishna in child form (Baal Gopal) in the Lake Pichola.
+        These procession are called Ram Revdies.
+    </string>
+    <string name="govardhansagar_description">Goverdhan sagar Lake is towards ahmedabad highway. It\'s a peaceful place compared to another lakes for one\'s who loves peaceful atmosphere. Not so crowded. Day by day government improving it. Nice place for couples or for walk.</string>
+    <string name="ropeway_description">Udaipur Ropeway is a prestigious project commissioned in June 2008. The promoters Omkareshwar Tradelinks Private Limited are engaged in promoting tourism in the state of Rajasthan by way of launching a number of adventure projects to enable visitors to get more value for their money.
+        Forthcoming projects in the state of Rajasthan are Amusement Park at Gulab Bagh, Sport fishing and power gliding/para sailing.
+        Omkareshwar Tradelinks Private Limited is committed to providing more adventure related tourism projects in Rajasthan.
+    </string>
+
+    <!-- Directions for Venues -->
+    <string name="fatehsagar_location">https://www.google.co.in/maps/place/Fateh+Sagar+Lake/@24.6016326,73.6630766,15z/data=!3m1!4b1!4m5!3m4!1s0x3967e53c8c2ac0e3:0x797deb83de7b53b8!8m2!3d24.6013999!4d73.6742232</string>
+    <string name="badi_location">https://www.google.co.in/maps/place/Badi+Talab/@24.6389872,73.5844746,12z/data=!4m8!1m2!2m1!1sbadi+lake+udaipur!3m4!1s0x3967fb1b9655ab0d:0x87a265275ba4d0e!8m2!3d24.6173109!4d73.6227107</string>
+    <string name="ambrai_location">https://www.google.co.in/maps/place/Ambrai+Ghat/@24.5775547,73.6777134,17z/data=!3m1!4b1!4m5!3m4!1s0x3967e5671fa9507f:0x8093d8f0ccad209a!8m2!3d24.5775547!4d73.6799021</string>
+    <string name="sajjangarh_location">https://www.google.co.in/maps/place/Monsoon+Palace,+Sajjan+Garh/@24.5932743,73.6370441,17z/data=!3m1!4b1!4m5!3m4!1s0x3967fac65c43799d:0x4f2ce9a0ed503714!8m2!3d24.5932743!4d73.6392328</string>
+    <string name="citypalace_location">https://www.google.co.in/maps/place/City+Palace/@24.5764421,73.6813222,17z/data=!3m1!4b1!4m5!3m4!1s0x3967e5640659a7d5:0x9257af76faeaab0e!8m2!3d24.5764421!4d73.6835109</string>
+    <string name="pichola_location">https://www.google.co.in/maps/place/Lake+Pichola/@24.5719986,73.6614904,14z/data=!3m1!4b1!4m5!3m4!1s0x3967e56041553fe7:0xdfef96846886cdd0!8m2!3d24.572!4d73.679</string>
+    <string name="jaisamand_location">https://www.google.co.in/maps/place/Jaisamand+Lake/@24.2653876,73.9114672,12z/data=!3m1!4b1!4m5!3m4!1s0x3967bb1d438eb0f9:0xb612112b6ef4e5d6!8m2!3d24.2402423!4d73.9888797</string>
+    <string name="gangaurghat_location">https://www.google.co.in/maps/place/Gangaur+Ghat/@24.5799286,73.6797368,17z/data=!3m1!4b1!4m5!3m4!1s0x3967e5666895c2ad:0x231870e0ef06b671!8m2!3d24.5799237!4d73.6819255</string>
+    <string name="govardhansagar_location">https://www.google.co.in/maps/place/Goverdhan+Sagar+Lake/@24.5433413,73.6794931,16z/data=!3m1!4b1!4m5!3m4!1s0x3967efbc3d5f868b:0x43af057c095a1e59!8m2!3d24.5437324!4d73.6841557</string>
+    <string name="ropeway_location">https://www.google.co.in/maps/place/Ropeway+To+Karni+Mata+Temple/@24.5661799,73.6828421,17z/data=!3m1!4b1!4m5!3m4!1s0x3967ef893b87e409:0x6339d4447ef08041!8m2!3d24.5661799!4d73.6850308</string>
+
+    <!-- Directions for Dininig -->
+    <string name="upre_location">https://www.google.co.in/maps/dir/\'\'/upre+restaurant+udaipur/@24.5791338,73.6103846,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3967e56655c1456b:0x902faca8202bc594!2m2!1d73.680425!2d24.57915</string>
+    <string name="ambraihotel_location">https://www.google.co.in/maps/dir/\'\'/restaurant+ambrai+udaipur,+rajasthan/@24.5781489,73.6102225,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3967e566e2e690ab:0x88f6c9cc70ed99cb!2m2!1d73.6802629!2d24.5781651</string>
+    <string name="lakeend_location">https://www.google.co.in/maps/dir/\'\'/Lakend+udaipur,+rajasthan/@24.5913532,73.6062699,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3967e5403cb27489:0xc3499789a6b4bdd1!2m2!1d73.6763103!2d24.5913694</string>
+    <string name="udayvilas_location">https://www.google.co.in/maps/dir/\'\'/Uday+Vilas,+rajasthan/@24.5773665,73.6024008,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x396ccf804ea9e2f3:0x21eb806bf9fc7e9a!2m2!1d73.6724412!2d24.5773827</string>
+    <string name="tajlakepalace_location">https://www.google.co.in/maps/dir/\'\'/taj+lake+palace+udaipur+rajasthan/@24.5753348,73.6099756,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3967efecf87f0b8b:0x2708953a0e177443!2m2!1d73.680016!2d24.575351</string>
+    <string name="bluemoon_location">https://www.google.co.in/maps/dir/\'\'/blue+moon+udaipur/@24.5790349,73.6102496,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3967e566e25c4b3d:0x459f62954bd6ebef!2m2!1d73.68029!2d24.5790511</string>
+    <string name="jheelcafe_location">https://www.google.co.in/maps/dir/\'\'/jheel+cafe+udaipur/@24.5810816,73.6115774,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3967e5666b65ce6f:0x44dcfdd77a71e1d8!2m2!1d73.6816178!2d24.5810978</string>
+    <string name="kababmistri_location">https://www.google.co.in/maps/dir/\'\'/kabab+mistri+udaipur/@24.5797028,73.6000696,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3967e55b46ba0793:0x5874e60eb94df4fc!2m2!1d73.67011!2d24.579719</string>
+    <string name="jagmandir_location">https://www.google.co.in/maps/dir/\'\'/jag+mandir+palace+udaipur/@24.5675782,73.6077211,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3967ef8ad9890ab9:0x52969c88012ca666!2m2!1d73.6777615!2d24.5675944</string>
+    <string name="radissonblu_location">https://www.google.co.in/maps/dir/\'\'/radisson+blu+udaipur/@24.5900679,73.597586,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3967e547b9828855:0x258344463865cdcf!2m2!1d73.6676264!2d24.5900841</string>
+
+    <!-- Websites for Dining -->
+    <string name="upre_website">http://www.1559ad.com/</string>
+    <string name="ambrai_website">http://www.amethaveliudaipur.com/restaurant.html</string>
+    <string name="lake_end_website">http://www.lakend.co.in/index.html</string>
+    <string name="udayvilas_website">https://www.oberoihotels.com/hotels-in-udaipur-udaivilas-resort</string>
+    <string name="tajlake_website">https://taj.tajhotels.com/en-in/taj-lake-palace-udaipur</string>
+    <string name="bluemoon_website"> https://www.zomato.com/udaipur/bluemoon-kinaraz-chandpole</string>
+    <string name="jheelcafe_website">http://www.hoteljheel.com/</string>
+    <string name="kababmistri_website">http://www.kababmistri.com/</string>
+    <string name="jagmandir_website">http://www.eternalmewar.in/index.aspx</string>
+    <string name="radissoblue_website">https://www.radissonblu.com/en/resort-udaipur?s_cid=os.apac-IN-blu-INDRDUP-gmb</string>
+
+    <!-- Phone Numbers for Dining -->
+    <string name="upre_contact">0294 243 1197</string>
+    <string name="ambrai_contact">0294 243 1589</string>
+    <string name="lakeend_contact">0294 243 1400</string>
+    <string name="udayvilas_contact">0294 243 3300</string>
+    <string name="tajlakepalace_contact">0294 242 8800</string>
+    <string name="bluemoon_contact">094607 26436</string>
+    <string name="jheelcafe_contact">094610 16511</string>
+    <string name="kababmistri_contact">0294 243 0433</string>
+    <string name="jagmandir_contact">0294 242 4186</string>
+    <string name="radissonblu_contact">0294 305 0000</string>
+
+    <!-- Timings for Dining -->
+    <string name="upre_timings">Opens- 7AM Close- 11PM</string>
+    <string name="ambrai_timings">Opens- 7AM Close- 10:30PM</string>
+    <string name="lakeend_timings">Opens- 8AM Close- 11:30PM</string>
+    <string name="udayvilas_timings">Opens- 7AM Close- 11PM</string>
+    <string name="tajlakepalace_timings">Opens- 7:30AM Close- 11PM</string>
+    <string name="bluemoon_timings">Opens- 11AM Close- 11PM</string>
+    <string name="jheelcafe_timings">Opens- 8:30AM Close- 9PM</string>
+    <string name="kababmistri_timings">Opens- 7AM Close- 11PM</string>
+    <string name="jagmandir_timings">Opens- 10AM Close- 6PM</string>
+    <string name="radissonblu_timings">Opens- 7AM Close- 11PM</string>
+
+    <!-- Ratings for Dining -->
+    <string name="upre_ratings">4.2 / 5</string>
+    <string name="ambrai_ratings">4.1 / 5</string>
+    <string name="lakeend_ratings">4.4 / 5</string>
+    <string name="udayvilas_ratings">4.7 / 5</string>
+    <string name="tajlakepalace_ratings">4.6 / 5</string>
+    <string name="bluemoon_ratings">3.9 / 5</string>
+    <string name="jheelcafe_ratings">4.3 / 5</string>
+    <string name="kababmistri_ratings">3.9 / 5</string>
+    <string name="jagmandir_ratings">4.4 / 5</string>
+    <string name="radissonblu_ratings">4.3 / 5</string>
+
+    <!-- Descriptions for Shopping -->
+    <string name="rkaymall_description">RKay Mall is attracting people towards Mall culture and is an ideal place to spend leisure time as it has all the facilities of international standards, which people look for in a mall.</string>
+    <string name="celebrationmall_description">Forum Celebration Mall,Udaipur is the first mall in the city offering world class shopping and lifestyle experience under one roof. Built in ethnic architectural style, the mall is the first iconic heritage mall in India with a unique blend of ethnicity on the outside with modern conveniences within and can be considered a landmark of Udaipur - iconic, different.</string>
+    <string name="lakecitymall_description">Lake City Mall, One stop platform for Shopping, Entertainment, Food and Gaming in the amidst of "City Of Lakes". By reflecting and enabling customer\'s lifestyles and delivering affordable luxury with a philosophy of \'customer first\', the Mall has distinguished itself as something truly special on the retail landscape. Clearly recognizing that the customer is paramount, all our actions and strategies are directed towards providing a wholesome experience to those visiting the mall. One stop platform for Shopping, Entertainment, Food and Gaming in the amidst of "City Of Lakes"</string>
+    <string name="bapubazar_description">Bapu Bazar is a market in Udaipur to purchase clothing, crockery, gadgets, shoes, school uniforms, and khadi products. It is a vibrant market buzzing with activities at every hour of the day. From enthusiastic vendors to eager tourists, the market never see a dull moment in a normal day. It is also popular for its street food.</string>
+    <string name="badabazar_description">Bada bazar offers plethora of small shops, big showrooms, and exhibitions that display the unbelievable variety of rich Rajasthani items. Brightly coloured traditional clothes are available at every step you take. It is an ideal place for souvenir shopping in Udaipur for your loved ones.</string>
+    <string name="jagdishchowk_description">Jagdish Temple Street is a very busy marketplace where you can shop for items like traditional wooden toys, vivacious puppets, multi-hued tapestry, bright colored cloth lanterns, painted wooden objects and handmade postcards. You will also find a good deal of mud and metal articles in the shops here.</string>
+    <string name="rajasthali_description">Rajasthali is a government emporium which offers a wide range of handicrafts items. Here, you will find a large variety of Rajasthani crafts made up of brass, terracotta, precious and semi- precious stones, mirrors, marbles, and many other artistic things. Every item available here gives you an insight into the rich cultural heritage of Rajasthan. It showcases everything from fabrics to puppets, from jewellery to footwear, and from turbans to idols. Rajasthali is a good place to discover all the countless colors of Mewar. It is a fixed price store that saves you the hassle of bargaining. Due to its fixed prices, Rajasthali is probably the best place for jewelry shopping in Udaipur.</string>
+    <string name="arvana_description">ARVANA is a shopping cum residential building having shops, showrooms, offices, residential flats, food court, roof top restaurant with world class amenities under one roof. It has ground plus seven floors and 2 basement for parking and is designed to cater the needs of all market segments while providing all modern amenities in the complex.</string>
+    <string name="shilpgram_description">Shilpgram is a heritage crafts village that is located about 3 km west of Fateh Sagar in Udaipur. Spread over a large area of 70 acres, the village displays an array of traditional mud huts and wood-houses, enhanced with straw and sticks. Here you can find all the rural items like pottery, handmade paintings, wooden furniture, and much more. What makes the experience more special is the nicely set background of traditional dancing on folk music. Apart from a shopping heaven in Udaipur, the main attraction of this place is the way it is constructed. It gives you a glimpse into the lifestyle of the rural Rajasthanis.</string>
+    <string name="sindhibazar_description">This market is famous for legendary Polki, Lac, Kundan, and Meenakari jewelry design of Rajasthan. Even gold and silver jewelry with meenakari and kundan work is very popular. Beautifully crafted copperware is another item for which clock tower is widely known. You can pick some very unusual souvenirs in metal from here.</string>
+
+    <!-- Directions for Shopping -->
+    <string name="celebrationmall_direction">https://www.google.co.in/maps/dir/\'\'/celebration+mall+udaipur/data=!4m5!4m4!1m0!1m2!1m1!1s0x3967e5a9f395db53:0x3346b119af64b7f7?sa=X&amp;ved=2ahUKEwjPkPHKo87cAhUJvo8KHTCCC9wQ9RcwGHoECAoQHA</string>
+    <string name="rkay_direction">https://www.google.co.in/maps/dir/\'\'/rkay+mall+udaipur/data=!4m5!4m4!1m0!1m2!1m1!1s0x3967e50d0c7cc371:0x94913de2276cf0ab?sa=X&amp;ved=2ahUKEwjHqpuj2c7cAhUMp48KHXOLBdwQ9RcwD3oECAoQHQ</string>
+    <string name="arvana_direction">https://www.google.co.in/maps/dir/\'\'/arvana+udaipur/data=!4m5!4m4!1m0!1m2!1m1!1s0x3967e56e19ec1135:0xaaacc143bb062cab?sa=X&amp;ved=2ahUKEwjCnfXS2c7cAhULo48KHS4iASwQ9RcwAHoECAEQFQ</string>
+    <string name="bapubazar_direction">https://www.google.co.in/search?tbm=lcl&amp;q=bapu+bazar+udaipur&amp;spell=1&amp;sa=X&amp;ved=0ahUKEwiqw_Tj2c7cAhWHNo8KHb1CAeAQBQgLKAA&amp;biw=1366&amp;bih=635#rlfi=hd:;si:13398706211526686583;mv:!1m3!1d2598.288498482158!2d73.69279441793242!3d24.583826524446803!3m2!1i946!2i550!4f13.1</string>
+    <string name="badabazar_direction">https://www.google.co.in/search?biw=1366&amp;bih=635&amp;tbm=lcl&amp;ei=nyVjW9zpCYzOvgTzlpbgDQ&amp;q=bada+bazar+udaipur&amp;oq=bada+bazar+udaipur&amp;gs_l=psy-ab.3..0i67k1j0l3j0i30k1l3j0i5i30k1l3.80079.80264.0.80663.2.2.0.0.0.0.252.252.2-1.1.0....0...1c.1.64.psy-ab..1.1.252....0.6GiNTG2JYsQ#rlfi=hd:;si:16032396186430708074;mv:!1m3!1d9864.155460072465!2d73.68736510000001!3d24.5824581!2m3!1f0!2f0!3f0!3m2!1i373!2i261!4f13.1</string>
+    <string name="sindhibazar_direction">https://www.google.co.in/maps/dir/\'\'/sindhi+bazar+udaipur/data=!4m5!4m4!1m0!1m2!1m1!1s0x3967e57afa9a5a63:0xa6f5ef1e278601a3?sa=X&amp;ved=2ahUKEwj02d282s7cAhUGpo8KHcXZDTQQ9RcwAHoECAEQFA</string>
+    <string name="lakecitymall_direction">https://www.google.co.in/maps/dir/\'\'/lake+city+mall+udaipur/data=!4m5!4m4!1m0!1m2!1m1!1s0x3967e59ac66bdd47:0xfac329f375dadaea?sa=X&amp;ved=2ahUKEwido56_2c7cAhUJS48KHZOdCUIQ9RcwAHoECAEQFQ</string>
+    <string name="rajasthali_direction">https://www.google.co.in/maps/dir/\'\'/rajasthali+udaipur/data=!4m5!4m4!1m0!1m2!1m1!1s0x3967e5725d31784b:0x414985149f11ffc9?sa=X&amp;ved=2ahUKEwiP97fR2s7cAhVKYo8KHd9gBjIQ9RcwAHoECAEQFA</string>
+    <string name="shilpgram_direction">https://www.google.co.in/maps/dir/\'\'/shilpgram+udaipur/data=!4m5!4m4!1m0!1m2!1m1!1s0x3967e529ba144b67:0x228d3f1bb88365c4?sa=X&amp;ved=2ahUKEwj4webl2s7cAhUKLo8KHcYtDcEQ9RcwAHoECAEQFQ</string>
+    <string name="jagdishchowk_direction">https://www.google.co.in/maps/dir/\'\'/jagdish+temple+udaipur/data=!4m5!4m4!1m0!1m2!1m1!1s0x3967e565d28084e3:0xf00f0180a7c55338?sa=X&amp;ved=2ahUKEwiR8qX22s7cAhXDuo8KHS8eDoEQ9RcwAHoECAEQFA</string>
+
+</resources>
+
